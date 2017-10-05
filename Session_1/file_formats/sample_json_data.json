@@ -1,0 +1,8 @@
+{
+    "name": "Bruno", 
+ 	 "employed": true, 
+	 "personal_data": {
+ 		  "country":   "rect", 
+ 		  "age":     	35
+    }
+}
